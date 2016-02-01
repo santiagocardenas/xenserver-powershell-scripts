@@ -1,5 +1,5 @@
 # xenserver-powershell-scripts
-Automating VM operations on XenServer using PowerShell
+Automating VM operations on Citrix XenServer using PowerShell
 
 ## Original Blog Post
 https://www.citrix.com/blogs/2014/09/10/scripting-automating-vm-operations-on-xenserver-using-powershell/
